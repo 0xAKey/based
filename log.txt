@@ -1,51 +1,54 @@
 testing mode
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
+contract TAC100 {
+uint public value1 = 1;
+uint public value2 = 2;
+uint public value3 = 3;
+uint public value4 = 4;
+uint public value5 = 5;
+uint public value6 = 6;
+uint public value7 = 7;
+uint public value8 = 8;
+uint public value9 = 9;
+uint public value10 = 10;
+uint public value11 = 11;
+uint public value12 = 12;
+uint public value13 = 13;
+uint public value14 = 14;
+uint public value15 = 15;
+uint public value16 = 16;
+uint public value17 = 17;
+uint public value18 = 18;
+uint public value19 = 19;
+uint public value20 = 20;
+uint public value21 = 21;
+uint public value22 = 22;
+uint public value23 = 23;
+uint public value24 = 24;
+uint public value25 = 25;
+uint public value26 = 26;
+uint public value27 = 27;
+uint public value28 = 28;
+uint public value29 = 29;
+uint public value30 = 30;
+uint public value31 = 31;
+uint public value32 = 32;
+uint public value33 = 33;
+uint public value34 = 34;
+uint public value35 = 35;
+uint public value36 = 36;
+uint public value37 = 37;
+uint public value38 = 38;
+uint public value39 = 39;
+uint public value40 = 40;
+uint public value41 = 41;
+uint public value42 = 42;
+uint public value43 = 43;
+uint public value44 = 44;
+uint public value45 = 45;
+uint public value46 = 46;
+uint public value47 = 47;
+uint public value48 = 48;
+uint public value49 = 49;
+uint public value50 = 50;
+uint public value51 = 51;
+uint public value52 = 52;
